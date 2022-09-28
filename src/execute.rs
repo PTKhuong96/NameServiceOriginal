@@ -9,7 +9,7 @@ use cw721_base::state::TokenInfo;
 
 use cosmwasm_std::{ensure_eq, DepsMut, Env, MessageInfo, Response, StdResult};
 
-const CONTRACT_NAME: &str = "crates.io:name-service";
+const CONTRACT_NAME: &str = "crates.io:name-service-original";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
 pub fn execute_instantiate(

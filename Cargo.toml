@@ -1,5 +1,5 @@
 [package]
-name = "name-service"
+name = "name-service-original"
 version = "0.1.0"
 authors = ["nttnguyen136 <nttnguyen136@gmail.com>"]
 edition = "2018"
